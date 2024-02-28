@@ -1,7 +1,7 @@
 # QUEST - API GitHub
 
 ## Descrição
-Esse projeto tem como objetivo buscar as seguintes informações de usuário do GutHub:
+Projeto proposto pelo curso devquest, tem como objetivo buscar as seguintes informações de usuário do GutHub:
 - Nome completo
 - Login
 - Bio

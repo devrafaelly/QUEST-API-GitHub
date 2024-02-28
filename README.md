@@ -8,7 +8,7 @@ Esse projeto tem como objetivo buscar as seguintes informações de usuário do 
 - Seguidores
 - Seguindo
 - Repositórios, incluindo quantidade de forks, estrelas, watchers e linguagem de programação utilizada
-- Eventos
+- Eventos (quando houver)
 
 ## Linguagens
 - HTML
